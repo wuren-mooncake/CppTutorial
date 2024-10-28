@@ -60,5 +60,5 @@ private:
 	
 	// Indicates that the actor should spawn actors
 	UPROPERTY(EditAnywhere)
-	bool ShouldSpawn = true;
+	bool ShouldSpawn = false;
 };
